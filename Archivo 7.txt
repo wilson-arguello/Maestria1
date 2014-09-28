@@ -1,0 +1,6 @@
+Colores del arcoiris
+Rojo
+amarillo
+verde
+azul
+violeta
