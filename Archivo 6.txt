@@ -1,7 +1,0 @@
-Numeros de la loteria
-42
-65
-78
-14
-11
-06
